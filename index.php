@@ -1,5 +1,5 @@
 <?php
-$baseUrl = "http://localhost/portfoglio";
+$baseUrl = "blackshield.test";
 ?>
 
 <!DOCTYPE html>
@@ -24,35 +24,35 @@ $baseUrl = "http://localhost/portfoglio";
             <div class="navigation_header" tabindex="0" aria-haspopup="true">
                 <label>l'azienda</label>
                 <div class="submenu">
-                    <a href="<?php echo $baseUrl ?>/page_static/chi_siamo.php">Chi siamo?</a>
-                    <a href="<?php echo $baseUrl ?>/page_static/missione.php">La nostra missione</a>
-                    <a href="<?php echo $baseUrl ?>/page_static/collaborazioni.php">Collaborazione</a>
-                    <a href="<?php echo $baseUrl ?>/page_static/team.php">Il nostro team</a>
+                    <a href="/page_static/chi_siamo.php">Chi siamo?</a>
+                    <a href="/page_static/missione.php">La nostra missione</a>
+                    <a href="/page_static/collaborazioni.php">Collaborazione</a>
+                    <a href="/page_static/team.php">Il nostro team</a>
                 </div>
             </div>
 
             <div class="navigation_header" tabindex="0" aria-haspopup="true">
                 <label>Servizi</label>
                 <div class="submenu">
-                    <a href="<?php echo $baseUrl ?>/page_static/el_servi.php">Elenco servizi</a>
-                    <a href="<?php echo $baseUrl ?>/page_static/Tech_ad.php">Tecnologie adottate</a>
-                    <a href="<?php echo $baseUrl ?>/page_static/hardware.php">Hardware</a>
-                    <a href="<?php echo $baseUrl ?>/page_static/software.php">Software</a>
+                    <a href="/page_static/el_servi.php">Elenco servizi</a>
+                    <a href="/page_static/Tech_ad.php">Tecnologie adottate</a>
+                    <a href="/page_static/hardware.php">Hardware</a>
+                    <a href="/page_static/software.php">Software</a>
                 </div>
             </div>
             <div class="navigation_header" tabindex="0" aria-haspopup="true">
                 <label>Clienti & Progetti</label>
                 <div class="submenu">
-                    <a href="<?php echo $baseUrl ?>/page_static/testimonianze.php">Testimonianze</a>
-                    <a href="<?php echo $baseUrl ?>/page_static/Progetti_n.php">Progetti noti</a>
-                    <a href="<?php echo $baseUrl ?>/page_static/corsi.php">Corsi</a>
+                    <a href="/page_static/testimonianze.php">Testimonianze</a>
+                    <a href="/page_static/Progetti_n.php">Progetti noti</a>
+                    <a href="/page_static/corsi.php">Corsi</a>
                 </div>
             </div>
 
             <div class="navigation_header" tabindex="0" aria-haspopup="true">
                 <label>Contatti</label>
                 <div class="submenu">
-                    <a href="#">Assistenza</a>
+                    <a href="/page_static/assistenza.php">Assistenza</a>
                     <a href="#">Lavora con noi</a>
                 </div>
             </div>
@@ -76,7 +76,7 @@ $baseUrl = "http://localhost/portfoglio";
                     <img src="img_static/icon/telefono.png" alt="Telefono Icon" class="telefono-icon">
                     <strong>Telefono</strong> +39 xxx xxx xxxx<br />
                     <img src="img_static/icon/email.png" alt="Email Icon" class="email-icon">
-                    <strong>Email</strong> <a href="mailto:uznm@estsesia.it">www.email@gmail.it</a>
+                    <strong>Email</strong> <a href="mailto: www.email@gmail.it">www.email@gmail.it</a>
                 </p>
             </div>
 
@@ -90,7 +90,7 @@ $baseUrl = "http://localhost/portfoglio";
                     <img src="img_static/icon/telefono.png" alt="Telefono Icon" class="telefono-icon">
                     <strong>Telefono</strong> +39 xxx xxx xxxx<br />
                     <img src="img_static/icon/email.png" alt="Email Icon" class="email-icon">
-                    <strong>Email</strong> <a href="mailto:uzns@estsesia.it">www.email@gmail.it</a>
+                    <strong>Email</strong> <a href="mailto:www.email@gmail.it">www.email@gmail.it</a>
                 </p>
             </div>
 
@@ -104,7 +104,7 @@ $baseUrl = "http://localhost/portfoglio";
                     <img src="img_static/icon/telefono.png" alt="Telefono Icon" class="telefono-icon">
                     <strong>Telefono</strong> +39 xxx xxx xxxx<br />
                     <img src="img_static/icon/email.png" alt="Email Icon" class="email-icon">
-                    <strong>Email</strong> <a href="mailto:uznt@estsesia.it">www.email@gmail.it</a>
+                    <strong>Email</strong> <a href="mailto:www.email@gmail.it">www.email@gmail.it</a>
                 </p>
             </div>
             <br>
